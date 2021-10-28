@@ -9,6 +9,8 @@
 }
 
 .items-section img {
-  width: 100vw;
+  aspect-ratio: inherit;
+  height: 30%;
+  width: 30%;
 }
 /*# sourceMappingURL=items.css.map */
